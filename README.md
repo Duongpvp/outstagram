@@ -1,6 +1,5 @@
-# outstagram
-Social Media App - OUTSTAGRAM
-This is a project built according to the MERN model :
+# OUTSTAGRAM - Social Media App
+Project built according to the MERN model :
   - Database: MongoDB
   - FrontEnd: ReactJS
   - BackEnd: Express + NodeJs
